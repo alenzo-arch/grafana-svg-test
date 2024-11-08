@@ -6,3 +6,4 @@ cells:
     dataRef: "rabbitmq_queue.raw_in"
     label:
       separator: "colon"
+      units: "per second"
