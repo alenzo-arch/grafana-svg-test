@@ -7,3 +7,14 @@ cells:
     label:
       separator: "colon"
       units: "per second"
+
+  raw_out:
+    dataRef: "rabbitmq_queue.raw_out"
+    label:
+      separator: "colon"
+      units: "per second"
+  
+  raw_size:
+    dataRef: "rabbitmq_queue.raw_size"
+    label:
+      separator: "colon"
