@@ -1,0 +1,9 @@
+cellIdPreamble: "cell-"
+gradientMode: "hue"
+
+cells:
+  raw_in:
+    dataRef: "rabbitmq_queue.raw_in"
+    label:
+      separator: "replace"
+      units: "ops"
