@@ -19,3 +19,20 @@ cells:
     dataRef: "rabbitmq_queue.raw_size"
     label:
       separator: "colon"
+    
+  s1_in:
+    dataRef: "rabbitmq_queue.s1_in"
+    label:
+      separator: "colon"
+      units: "per second"
+
+  s1_out:
+    dataRef: "rabbitmq_queue.s1_out"
+    label:
+      separator: "colon"
+      units: "per second"
+  
+  s1_size:
+    dataRef: "rabbitmq_queue.s1_size"
+    label:
+      separator: "colon"
