@@ -1,5 +1,6 @@
 cellIdPreamble: "cell-"
 gradientMode: "hue"
+datapoint: "lastNotNull"
 
 cells:
   raw_in:
